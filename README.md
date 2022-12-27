@@ -1,4 +1,4 @@
-# Building-a-Computer
+# Components in Computers
 Building a computer can be challenging, especially if you are doing it for the first time. It is a good idea to familiarize yourself with the different components and their functions before you start building. You can also refer to online tutorials or seek help from more experienced builders if you encounter any issues. There are several important factors to consider when building a computer:
 
     Purpose: Determine the purpose of the computer and what you will be using it for. This will help you choose the right components and determine the necessary performance levels.
