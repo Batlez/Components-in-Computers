@@ -1,5 +1,5 @@
 Building a computer case involves the following steps:
-1.	Gather all necessary tools and components: You will need a screwdriver, a pair of scissors or a cable stripper, a drill or punch, and any other tools specified by the case manufacturer. You will also need the components for your build, including the motherboard, CPU, RAM, power supply, and any other peripherals or expansion cards you plan to use.
+1.	Gather all necessary tools and components: You will need a screwdriver, a pair of scissors or a cable stripper, and any other tools specified by the case manufacturer. You will also need the components for your build, including the motherboard, CPU, RAM, power supply, and any other peripherals or expansion cards you plan to use.
 2.	Lay out all components: Place all components on a flat, clean surface and ensure you have everything you need.
 3.	Choose a location for the case: Select a stable, flat surface for your case. Ensure sufficient space for all your components and that the case will fit in the desired location.
 4.	Assemble the case: Follow the manufacturer's instructions to assemble the case. This will typically involve attaching the motherboard tray, installing the power supply, and attaching any required cables or brackets.
