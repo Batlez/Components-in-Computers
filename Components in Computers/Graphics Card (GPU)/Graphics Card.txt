@@ -10,7 +10,6 @@ A wide variety of GPU models are available on the market, and the best choice fo
 •	Nvidia GeForce GTX 1660 Super: This mid-range GPU is well-suited for gaming and other tasks requiring good graphics performance. It offers solid performance at a more affordable price than some top-end GPUs.
 Ultimately, the best GPU for you will depend on your specific needs and budget. Many other options are available, and it's a good idea to research and read reviews before deciding.
 
-
 There are many factors to consider when choosing a GPU for gaming, including the type of games you will be playing, your monitor's resolution and refresh rate, and your budget.
 
 Currently, some of the top gaming GPUs on the market include the NVIDIA GeForce RTX 3080, 3070, and 3060 Ti, as well as the AMD Radeon RX 6800 XT and 6900 XT. These GPUs offer excellent performance and are well-suited for high-quality gaming at high resolutions and refresh rates.
