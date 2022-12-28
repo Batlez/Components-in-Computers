@@ -7,7 +7,7 @@ Many different components make up a computer, each with its specific role and fu
 
     Cooling: Proper cooling is essential to keep your computer running smoothly and prevent overheating. Choose a case with good airflow and consider adding additional cooling components such as fans or a water-cooling system.
 
-    Power supply: Make sure you choose a power supply unit (PSU) that can support all the components in your system. A PSU that is too weak will result in instability and may cause damage to your components.
+    Power Supply: Make sure you choose a power supply unit (PSU) that can support all the components in your system. A PSU that is too weak will result in instability and may cause damage to your components.
 
     Cable Management: Proper cable management will help improve the airflow inside your case and make it easier to access components in the future.
 
