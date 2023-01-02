@@ -1,0 +1,15 @@
+A monitor is a device that displays visual information from a computer or other device. It is made up of a screen, a circuit board, and a housing. The screen is a flat panel display that shows the images and text and is usually made of glass or a similar material. The circuit board is a printed circuit board inside the housing that controls the monitor and processes the signals it receives. The housing is a case that encloses the screen and circuit board and provides a way to mount the monitor to a desk or wall. Monitors can be connected to a computer or other device through a wired or wireless connection, and they come in various sizes and resolutions.
+
+The resolution of a monitor refers to the number of pixels on the screen. A higher resolution means more pixels, which can make the image on the screen look crisper and more detailed. Some common monitor resolutions include:
+1.	1080p (Full HD): This resolution is also known as 1080p or 1920x1080. It is the most common resolution and is suitable for most uses, including gaming.
+2.	1440p (Quad HD): This resolution is also known as 1440p or 2560x1440. It has a higher pixel density than 1080p, which can make the image on the screen look more detailed.
+3.	4K (Ultra HD): This resolution is also known as 4K or 3840x2160. It has four times the number of pixels as 1080p, which can make the image on the screen look highly detailed.
+Ultimately, the best resolution for a monitor will depend on your personal preferences and budget. Consider the resolution of the content you will be viewing and choose a monitor that meets your needs.
+
+The size of the best gaming monitor will depend on your personal preferences and the size of your desk or setup. Here are a few things to consider when looking for a gaming monitor:
+1.	Field of view: A larger monitor can provide a wider field of view, which can be helpful in some games. A 27-inch monitor is a popular size for gaming, but you may prefer a smaller or larger size, depending on your needs.
+2.	Resolution: The monitor's resolution determines how much detail you can see. A higher resolution means more pixels, which can make the image on the screen look crisper and more detailed.
+3.	Refresh rate: The monitor's refresh rate determines how often the image on the screen is updated. A higher refresh rate can make the image on the screen look smoother, which can be helpful in fast-paced games.
+4.	Panel type: There are several types of panels that are used in monitors, including IPS, TN, and VA. IPS panels generally have the best colour accuracy and viewing angles but may have slower refresh rates than TN or VA panels. TN panels have faster refresh rates but may have worse colour accuracy and viewing angles. VA panels fall somewhere in between in terms of colour accuracy, refresh rate, and viewing angles.
+
+Ultimately, the best size monitor for gaming will depend on your personal preferences and budget. Consider the factors above and choose a monitor that meets your needs and fits your setup.
